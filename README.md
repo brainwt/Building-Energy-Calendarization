@@ -4,17 +4,17 @@
 
 ```
 (230411) 드래프트 버전입니다. 23년 말 또는 24년 초 업데이트가 있을 예정입니다.
-
 ```
-
 ## 사용법
 - `Calendarization_v202210.exe` 파일을 실행합니다.
 - `사용설명서` 폴더의 `KICT_SWJ_달력맞춤Tool_사용설명서_1.pdf` 참고하여 잘 해봅니다.
-
+   
 ## 알고리즘 설명 및 출처
 - 김혜기 외 (2023). 준비 중
 - 김혜기, 김덕우, 이승언, 김선숙. (2022). 건축물 에너지 사용 청구기간 조정에 따른 Change Point Linear Model 비교. 대한건축학회 학술발표대회 논문집, 42(2), 467-468.
 
+---
+   
 # Copyright
 ***BE-Calen*** : ***B***uilding ***E***nergy data ***calen***darization Copyright (c) 2023
 Korea Institute of Civil Engineering and Building Technology, KICT (subject to receipt of any required approvals from South Korea Ministry of Land, Infrastructure and Transport, MOLIT). All rights reserved.
