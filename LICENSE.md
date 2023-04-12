@@ -1,6 +1,6 @@
 It is distributed under the terms of a permissive, BSD 3-Clause License
 
-Copyright (c) 2023, Korea Institute of Civil Engineering and Building Technology, KICT 
+***BE-sig***, Copyright (c) 2023, Korea Institute of Civil Engineering and Building Technology, KICT 
 (subject to receipt of any required approvals from South Korea Ministry of Land, Infrastructure and Transport, MOLIT). All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -16,6 +16,8 @@ modification, are permitted provided that the following conditions are met:
 3. Neither the name of the copyright holder nor the names of its
    contributors may be used to endorse or promote products derived from
    this software without specific prior written permission.
+  
+4. Use of ***BE-sig*** Name. If Licensee (i) distributes the code in stand-alone form without changes from the version obtained under this License, or (ii) Licensee makes a reference solely to the software portion of its product, Licensee must refer to the code as "***BE-sig version X***", where "X" is the version number Licensee obtained under this License and may not use a different name for the code.
 
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
 AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
