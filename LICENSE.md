@@ -6,7 +6,7 @@ It is distributed under the terms of a permissive, BSD 3-Clause License
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
 
-1. Redistributions of source code must retain the above copyright notice, this
+1. Redistributions of the software must retain the above copyright notice, this
    list of conditions and the following disclaimer.
 
 2. Redistributions in binary form must reproduce the above copyright notice,
@@ -17,7 +17,7 @@ modification, are permitted provided that the following conditions are met:
    contributors may be used to endorse or promote products derived from
    this software without specific prior written permission.
   
-4. Use of ***BE-calen*** Name. If Licensee (i) distributes the code in stand-alone form without changes from the version obtained under this License, or (ii) Licensee makes a reference solely to the software portion of its product, Licensee must refer to the code as "***BE-calen version X***", where "X" is the version number Licensee obtained under this License and may not use a different name for the code.
+4. Use of ***BE-calen*** Name. If Licensee (i) distributes the code in stand-alone form without changes from the version obtained under this License, or (ii) Licensee makes a reference solely to the software portion of its product, Licensee must refer to the code as "***BE-calen version X***", where "X" is the version number Licensee obtained under this License and may not use a different name for the software.
 
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
 AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
