@@ -4,7 +4,7 @@
 - 다운로드 : https://github.com/brainwt/BE-Calen/releases 
 
 ```
-(230411) 드래프트 버전입니다. 23년 말 또는 24년 초 업데이트가 있을 예정입니다.
+(230411) 드래프트 버전입니다. 23년 말 또는 24년 초 공식 업데이트가 있을 예정입니다.
 ```
 
 ## 사용법
@@ -19,8 +19,14 @@
 - 24년04월 : 정식 버전 (행 제한 없음, API 기능 등)
 
 ## 알고리즘 설명 및 출처
-- 김혜기 외 (2023). 준비 중
-- 김혜기, 김덕우, 이승언, 김선숙. (2022). 건축물 에너지 사용 청구기간 조정에 따른 Change Point Linear Model 비교. 대한건축학회 학술발표대회 논문집, 42(2), 467-468.
+- 프로그램 사용시 출처 표기  
+  - 국문: 건물부문 탄소중립 가속화를 위한 건물에너지 소비 데이터 통합관리 기반기술 개발 (과제번호 : RS-2023-00244769)  
+  - 영문: Grant RS-2023-00244769, Development of a data framework for integrating building energy datasets and applications to accelerate carbon neutrality in the building sector
+
+- 알고리즘 설명 출처 표기 
+  - 김혜기 외 (2023). 준비 중
+  - 김혜기, 김덕우, 이승언, 김선숙. (2022). 건축물 에너지 사용 청구기간 조정에 따른 Change Point Linear Model 비교. 대한건축학회 학술발표대회 논문집, 42(2), 467-468
+
 
 ## 프로그램 개발자
 - 서원준건물에너지사무소 (https://swj.kr)
@@ -31,7 +37,7 @@
 Research was conducted under the KICT Research Program (project no. 20220260-001, Data-Centric Checkup Technique of Building Energy Performance) funded by the
 Ministry of Science and ICT.
 
-This work is supported by the Korea Agency for Infrastructure Technology Advancement(KAIA) grant funded by the Ministry of Land, Infrastructure and Transport (Grant RS-2023-00244769)
+This work is supported by the Korea Agency for Infrastructure Technology Advancement(KAIA) grant funded by the Ministry of Land, Infrastructure and Transport (Grant RS-2023-00244769, Development of a data framework for integrating building energy datasets and applications to accelerate carbon neutrality in the building sector)
 
 ---
    
