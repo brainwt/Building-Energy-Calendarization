@@ -31,6 +31,10 @@
 ## 프로그램 개발자
 - 서원준건물에너지사무소 (https://swj.kr)
 
+## 관련특허
+- 특허번호 : 제10-2221699호 (등록일: 21.02.23)
+- 명칭 : 에너지 사용량의 일별 기간 조정 방법 및 그 장치 (Method and apparatus for adjusting the daily period of energy use)
+
 ---
 # Funding
 
