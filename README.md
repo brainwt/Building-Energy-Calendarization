@@ -24,9 +24,8 @@
   - 영문: Grant RS-2023-00244769, Development of a data framework for integrating building energy datasets and applications to accelerate carbon neutrality in the building sector
 
 - 알고리즘 설명 출처 표기 
-  - 김혜기 외 (2023). 준비 중
+  - Kim, Hye Gi, Seung Eon Lee, and Deuk Woo Kim. 2024. “Impact of Calendarization on Change-Point Models.” Energy and Buildings 303 (January): 113803. doi:10.1016/j.enbuild.2023.113803.
   - 김혜기, 김덕우, 이승언, 김선숙. (2022). 건축물 에너지 사용 청구기간 조정에 따른 Change Point Linear Model 비교. 대한건축학회 학술발표대회 논문집, 42(2), 467-468
-
 
 ## 프로그램 개발자
 - 서원준건물에너지사무소 (https://swj.kr)
